@@ -1,2 +1,6 @@
-The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/restaurantly-restaurant-template/
+Thanks for downloading this template!
+
+Template Name: Restaurantly
+Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
